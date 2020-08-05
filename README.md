@@ -1,9 +1,8 @@
-<!--
-**pedrozanineli/PedroZanineli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Pedro Zanineli
 
-## Pedro Zanineli
+*Computer engineering student at Facamp.<br>How to reach me:*
+<br><br>
 
-* *Computer engineering student at Facamp.
-* *Reach me:
-pedro.zanineli12@gmail.com
-https://www.linkedin.com/in/pedro-zanineli/
+[![Linkedin Badge](https://img.shields.io/badge/-PedroZanineli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrozanineli/)](https://www.linkedin.com/in/pedro-zanineli/)
+
+<br>[![Gmail Badge](https://img.shields.io/badge/-pedro.zanineli12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.zanineli12@gmail.com)](mailto:pedro.zanineli12@gmail.com)
